@@ -1,5 +1,4 @@
 <h2> Hi, I'm Dipak Das! <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></h2>
-<img align='right' src="https://media.giphy.com/media/14kdiJUblbWBXy/giphy.gif" width="350" height = "300">
 
 ![Dipak's github stats](https://github-readme-stats.vercel.app/api?username=d1pakda5)
 
