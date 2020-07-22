@@ -1,8 +1,5 @@
 <h2> Hi, I'm Dipak Das! <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></h2>
 <img align='right' src="https://media.giphy.com/media/14kdiJUblbWBXy/giphy.gif" width="350" height = "300">
-<p><em>Senior Penetration Tester <a href="https://www.subex.com">Subex</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  
-</em></p>
 
 ![Dipak's github stats](https://github-readme-stats.vercel.app/api?username=d1pakda5)
 
