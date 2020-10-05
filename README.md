@@ -1,4 +1,4 @@
-<h2> Hi, I'm Dipak Das! <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></h2>
+<h2> Hi, I'm Dipak Kumar Das! <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></h2>
 <p><em>Senior Penetration Tester at <a href="https://subex.com/">Subex</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </em></p>
 
