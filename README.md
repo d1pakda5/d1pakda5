@@ -3,6 +3,7 @@
   </em></p>
 
 ![Dipak's github stats](https://github-readme-stats.vercel.app/api?username=d1pakda5)
+![Dipak's github trophy](https://github-profile-trophy.vercel.app/?username=d1pakda5&theme=dracula)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Lets Get Social</em>
 <p>
