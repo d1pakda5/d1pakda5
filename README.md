@@ -1,5 +1,5 @@
 <h2> Hi, I'm Dipak Kumar Das! <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></h2>
-<p><em>Senior Penetration Tester at <a href="https://subex.com/">Subex</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>Senior Product Security Engineer at <a href="https://www.informatica.com/in/">Informatica</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </em></p>
 
 ![Dipak's github trophy](https://github-profile-trophy.vercel.app/?username=d1pakda5&theme=dracula)
