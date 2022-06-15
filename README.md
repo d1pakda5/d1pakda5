@@ -1,4 +1,4 @@
-<h2> Hi, I'm Dipak Kumar Das! <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&size=24&duration=5005&background=3AFF2D00&height=52&lines=Hello+There!+++This+is+Dipak+;Senior+Product+Security+Engineer)](https://git.io/typing-svg) <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70">
 <p><em>Senior Product Security Engineer at <a href="https://www.informatica.com/in/">Informatica</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </em></p>
 
