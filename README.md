@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&size=24&duration=5005&background=3AFF2D00&height=52&lines=Hello+There!+++This+is+Dipak+;Senior+Security+Engineer)](https://git.io/typing-svg) <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70">
-<p><em>Senior Security Engineer at <a href="https://www.chingari.io">Chingari</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>Senior Product Security Engineer at <a href="https://www.chingari.io">Egnyte</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </em></p>
 
 ![Dipak's github trophy](https://github-profile-trophy.vercel.app/?username=d1pakda5&theme=dracula)
